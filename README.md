@@ -1,7 +1,11 @@
 # Employee-Leave-Management-System
+
 Leave Management System is a web application for managing employee leaves.  
+
 Also allows the manager to accept or decline employee's leave request, check employees remaining leave, manage employee(add new employee, update existing employee details, remove employee) and change password.
+
 The users(employees) can request leave, check his/her remaining leave, leave history with status and change their password.
+
 # Application Overview
 # Common Login Page
 ![Commonlogin](https://user-images.githubusercontent.com/72301703/125502633-613d74e8-a62a-40e5-b76b-ecaa47b35d9b.PNG)
